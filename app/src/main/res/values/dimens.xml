@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="default_text_size">20sp</dimen>
+    <dimen name="insets_16">16dp</dimen>
+    <dimen name="insets_64">64dp</dimen>
+    <dimen name="insets_8">8dp</dimen>
+    <dimen name="insets_24">24dp</dimen>
+    <dimen name="insets_32">32dp</dimen>
+    <dimen name="insets_zero">0dp</dimen>
+</resources>
