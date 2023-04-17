@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="LoadingButton">
+    <declare-styleable name="DownloadLoadingButton">
         <attr name="textColor" format="color" />
         <attr name="backgroundColor" format="color" />
-        <attr name="textSize" format="dimension" />
+        <attr name="defaultBackgroundColor" format="color" />
+        <attr name="text" format="string" />
+        <attr name="defaultText" format="string" />
     </declare-styleable>
 </resources>

@@ -31,4 +31,5 @@
     <string name="file_progress">File Progress:</string>
     <string name="place_holder">place holder</string>
     <string name="download_page_icon">Download Page Icon</string>
+    <string name="loading_epi">Loading..</string>
 </resources>

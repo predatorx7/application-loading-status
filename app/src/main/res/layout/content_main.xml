@@ -67,9 +67,11 @@
         android:layout_width="@dimen/insets_zero"
         android:layout_height="60dp"
         android:layout_margin="20dp"
-        app:backgroundColor="@color/colorPrimary"
+        app:backgroundColor="?attr/colorPrimaryDark"
+        app:defaultBackgroundColor="?attr/colorPrimary"
         app:textColor="@color/white"
-        app:textSize="@dimen/default_text_size"
+        app:defaultText="@string/download"
+        app:text="@string/loading_epi"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
